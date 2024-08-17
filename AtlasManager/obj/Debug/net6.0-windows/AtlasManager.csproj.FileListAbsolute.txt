@@ -1,0 +1,17 @@
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\bin\Debug\net6.0-windows\AtlasManager.exe
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\bin\Debug\net6.0-windows\AtlasManager.deps.json
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\bin\Debug\net6.0-windows\AtlasManager.runtimeconfig.json
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\bin\Debug\net6.0-windows\AtlasManager.dll
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\bin\Debug\net6.0-windows\AtlasManager.pdb
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.csproj.AssemblyReference.cache
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.AtlasManager.resources
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.csproj.GenerateResource.cache
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.AssemblyInfoInputs.cache
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.AssemblyInfo.cs
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.csproj.CoreCompileInputs.cache
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.dll
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\refint\AtlasManager.dll
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.pdb
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\AtlasManager.genruntimeconfig.cache
+C:\Users\Atlaskor\source\repos\AtlasManager\AtlasManager\obj\Debug\net6.0-windows\ref\AtlasManager.dll
